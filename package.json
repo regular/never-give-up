@@ -1,5 +1,5 @@
 {
-  "name": "never-give-up",
+  "name": "dont-stop-believing",
   "version": "1.0.0",
   "description": "Keep trying to call an async function until it succeeds",
   "main": "index.js",

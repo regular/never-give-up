@@ -2,7 +2,7 @@ never-give-up
 ---
 
 ```js
-const retry = require('never-give-up')
+const retry = require('dont-stop-believing')
 
 let count = 5
 function fun(a, b, c, cb) {
