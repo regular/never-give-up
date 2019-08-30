@@ -1,10 +1,10 @@
 {
   "name": "never-give-up",
   "version": "1.0.0",
-  "description": "",
+  "description": "Keep trying to call an async function until it succeeds",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
